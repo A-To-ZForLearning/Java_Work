@@ -1,0 +1,12 @@
+1. On Friday afternoon your boss, knowing that you have big plans of watching the X-Files that night, 
+saunters up and asked you to generate some reports for him. He wants you to print out the list of vehicles by price.
+
+
+2. Just as you think you think you're done for the afternoon, your boss says he wants another report of vehicles.
+ This time he wants a report generated that shows average cost per car type sorted by price. Knowing your boss, 
+ you know he's going to ask for average cost per brand, per engine type and per color next, so build that out.
+ 
+ 
+3. Build a REST web service in Spring Boot (spring.io) that returns that information above.
+
+4. Summarize what happens in season 1 of the X-Files. (Just kidding…or are we? The truth is out there)
